@@ -5,7 +5,7 @@
 
 - **Authorize**: The sixth step of the NIST RMF that refers to being accountable for the security and privacy risks that may exist in an organization
 
-- **Business** continuity: An organization's ability to maintain their everyday productivity by establishing risk disaster recovery plans
+- **Business continuity**: An organization's ability to maintain their everyday productivity by establishing risk disaster recovery plans
 
 - **Categorize**: The second step of the NIST RMF that is used to develop risk management processes and tasks
 
