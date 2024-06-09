@@ -8,7 +8,7 @@ The **TCP/IP model** is a framework used to visualize how data is organized and 
 
 The TCP/IP model has four layers: the network access layer, internet layer, transport layer, and application layer. When troubleshooting issues on the network, security professionals can analyze which layers were impacted by an attack based on what processes were involved in an incident. 
 
-![](/Networks%20and%20Network%20Security/Module%201/img/tcp-ip-model.png)
+![](/Networks%20and%20Network%20Security/img/tcp-ip-model.png)
 
 ## Network access layer 
 The network access layer, sometimes called the data link layer, deals with the creation of data packets and their transmission across a network. This layer corresponds to the physical hardware involved in network transmission. Hubs, modems, cables, and wiring are all considered part of this layer. The address resolution protocol (ARP) is part of the network access layer. Since MAC addresses are used to identify hosts on the same physical network, ARP is needed to map IP addresses to MAC addresses for local network communication.
@@ -49,7 +49,7 @@ Application layer protocols rely on underlying layers to transfer the data acros
 
 ## TCP/IP model versus OSI model
 
-![](/Networks%20and%20Network%20Security/Module%201/img/tcp-ip-model-vs-osi-model.png)
+![](/Networks%20and%20Network%20Security/img/tcp-ip-model-vs-osi-model.png)
 
 The **OSI** visually organizes network protocols into different layers. Network professionals often use this model to communicate with each other about potential sources of problems or security threats when they occur. 
 

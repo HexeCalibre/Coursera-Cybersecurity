@@ -16,7 +16,7 @@ CSPs provide three main categories of services:
 
 - **Platform as a service (PaaS)** refers to tools that application developers can use to design custom applications for their company. Custom applications are designed and accessed in the cloud and used for a company’s specific business needs.
   
-![](/Networks%20and%20Network%20Security/Module%201/img/csp-categories.png)
+![](/Networks%20and%20Network%20Security/img/csp-categories.png)
 
 ## Hybrid cloud environments
 When organizations use a CSP’s services in addition to their on-premise computers, networks, and storage, it is referred to as a hybrid cloud environment. When organizations use more than one CSP, it is called a multi-cloud environment. The vast majority of organizations use hybrid cloud environments to reduce costs and maintain control over network resources.

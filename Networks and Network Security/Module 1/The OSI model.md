@@ -10,7 +10,7 @@ The TCP/IP model has four layers: the network access layer, internet layer, tran
 
 The **OSI model** is a standardized concept that describes the seven layers computers use to communicate and send data over the network. Network and security professionals often use this model to communicate with each other about potential sources of problems or security threats when they occur.
 
-![](/Networks%20and%20Network%20Security/Module%201/img/osi-model.png)
+![](/Networks%20and%20Network%20Security/img/osi-model.png)
 
 Some organizations rely heavily on the TCP/IP model, while others prefer to use the OSI model. As a security analyst, it’s important to be familiar with both models. Both the TCP/IP and OSI models are useful for understanding how networks work. 
 
