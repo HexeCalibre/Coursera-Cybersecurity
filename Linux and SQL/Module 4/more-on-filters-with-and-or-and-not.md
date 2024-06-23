@@ -57,4 +57,4 @@ WHERE NOT country = 'Canada' AND NOT country = 'USA';
 ```
 
 #### Key takeaways
-Logical operators allow you to create more specific filters that target the security-related information you need. The `AND` operator requires two conditions to be true simultaneously, the `OR` operator requires either one or both conditions to be true, and the `NOT` operator negates a condition. Logical operators can be combined together to create even more specific queries.
+> Logical operators allow you to create more specific filters that target the security-related information you need. The `AND` operator requires two conditions to be true simultaneously, the `OR` operator requires either one or both conditions to be true, and the `NOT` operator negates a condition. Logical operators can be combined together to create even more specific queries.
