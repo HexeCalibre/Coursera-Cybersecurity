@@ -26,12 +26,12 @@ To use the supporting materials for this course item, click the links.
 The **Instructions for including SQL queries** document provides instructions and best practices for including samples of SQL queries in your portfolio activity.
 
 Link to supporting materials: 
-[Instructions for including SQL queries]()
+[Instructions for including SQL queries](/Portfolio%20Activity/Documentation/Apply%20filters%20to%20SQL%20queries/Apply-filters-to-SQL-queries-Template.docx)
 
 The **Table formats** document describes how the tables used for this portfolio activity are organized.
 
 Link to supporting material: 
-[Table formats]()
+[Table formats](/Portfolio%20Activity/Documentation/Apply%20filters%20to%20SQL%20queries/Table-formats.docx)
 
 > **Note:**  It is recommended that you use the **Filter with AND, OR, and NOT** lab to complete this portfolio activity. If you’re revisiting the lab, the **Table formats** document is optional. You will also be able to view the tables in the lab.
 
