@@ -14,6 +14,8 @@ One of the most valuable assets in the world today is information. Most informat
 
 An inventory of network devices can be a useful asset management tool. An inventory can highlight sensitive assets that require extra protection.
 
+![a-home-office-that-includes-a-desktop-computer-printer-router-webcam-speakers-headphones-and-external-hard-drive](/Portfolio%20Activity/Documentation/Classify%20the%20assets%20connected%20to%20a%20home%20network/a-home-office-that-includes-a-desktop-computer-printer-router-webcam-speakers-headphones-and-external-hard-drive.png)
+
 You’re operating a small business from your home and must create an inventory of your network devices. This will help you determine which ones contain sensitive information that require extra protection.
 
 To do this, you will start by identifying three devices that have access to your home network. This might include devices such as:
@@ -40,7 +42,7 @@ Follow the instructions and answer the end-of-activity question to complete the 
 To use the template for this course item, click the link below and select Use Template. 
 
 Link to template: 
-[Home asset inventory]()
+[Home asset inventory](/Portfolio%20Activity/Documentation/Classify%20the%20assets%20connected%20to%20a%20home%20network/Home-asset-inventory-template.xlsx)
 
 #### Step 2: Identify assets
 In the asset inventory spreadsheet, find the **Asset** column header. Consider the devices that may be connected to the home network. Examine devices in the scenario graphic to help you brainstorm.
