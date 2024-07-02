@@ -149,7 +149,7 @@ Your search from the previous task should have retrieved search results for over
     
     a. 10,000
 
-    b. Over 100,000
+    **b. Over 100,000**
 
     c. 10-99
 
@@ -161,13 +161,13 @@ Your search from the previous task should have retrieved search results for over
 
     b. sourcetype
 
-    c. host
+    **c. host**
 
     d. index
 
 3. Which of the following hosts used by Buttercup Games contains log information relevant to financial transactions?
 
-    a. vendor_sales
+    **a. vendor_sales**
 
     b. www1
 
@@ -179,7 +179,7 @@ Your search from the previous task should have retrieved search results for over
 
     a. None
 
-    b. More than 100
+    **b. More than 100**
     
     c. 100
 
