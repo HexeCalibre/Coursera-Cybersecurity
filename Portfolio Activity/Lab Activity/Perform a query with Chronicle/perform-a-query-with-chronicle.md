@@ -96,11 +96,11 @@ Investigate the IP address found under the **RESOLVED IPS** insight card to iden
 ### Step 7: Answer questions about the domain investigation
 1. Which assets accessed the `signin.office365x24.com` domain? Select three answers.
 
-    [ ] emil-palmer-pc
+    **[x] emil-palmer-pc**
 
-    [ ] roger-spence-pc
+    **[x] roger-spence-pc**
 
-    [ ] coral-alvarez-pc
+    **[x] coral-alvarez-pc**
 
     [ ] thomas-garcia-pc
 
@@ -110,7 +110,7 @@ Investigate the IP address found under the **RESOLVED IPS** insight card to iden
 
     b. 10.0.0.222
 
-    c. 40.100.174.34
+    **c. 40.100.174.34**
 
     d. 45.32.8.8
 
@@ -118,7 +118,7 @@ Investigate the IP address found under the **RESOLVED IPS** insight card to iden
 
     a. 8
 
-    b. 3
+    **b. 3**
 
     c. 11
 
@@ -132,15 +132,15 @@ Investigate the IP address found under the **RESOLVED IPS** insight card to iden
 
     c. https://office365x24.com/login.exe
 
-    d. http://signin.office365x24.com/login.php
+    **d. http://signin.office365x24.com/login.php**
 
 5. Which domains does the IP address 40.100.174.34 resolve to? Select two answers.
 
-    [ ] singin.office365x24.com
+    **[x] singin.office365x24.com**
 
     [ ] cloud2.xdnscloud.com
 
-    [ ] signin.accounts-google.com
+    **[x] signin.accounts-google.com**
 
     [ ] euw.adserver.snapads.com
 
