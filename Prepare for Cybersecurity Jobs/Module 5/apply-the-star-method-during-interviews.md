@@ -2,7 +2,8 @@
 You’ve been learning about different techniques and strategies to use during future interviews for jobs in the cybersecurity field. In this reading, you’ll learn more details about the STAR method for answering interview questions. Implementing this strategy will help you answer interview questions with confidence and clarity.
 
 ## The STAR method
-![]()
+![star method acronym](/Prepare%20for%20Cybersecurity%20Jobs/img/star-method-acronym.png)
+
 When interviewing for a job, it can be challenging to convey the right details about your professional history and skills to your interviewers. Using the STAR method can help you share your success stories effectively and strategically. STAR stands for Situation, Task, Action, and Result. Using this method enables you to describe potential challenges you faced in previous roles and gives you the opportunity to show how you thoughtfully approached solving those problems from start to finish. 
 
 ### Situation
